@@ -1,0 +1,16 @@
+
+body{
+    text-align: center;
+}
+
+button{
+    padding: 10px;
+    font-size: 15px;
+    margin: 15px;
+    color: crimson;
+}
+
+/* h1{
+    font-size: 25px;
+    font-weight: bold;
+} */
